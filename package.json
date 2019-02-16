@@ -1,0 +1,26 @@
+{
+  "name": "post-it",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astro36/post-it.git"
+  },
+  "author": "Seungjae Park <astr36@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Astro36/post-it/issues"
+  },
+  "homepage": "https://github.com/Astro36/post-it#readme",
+  "devDependencies": {
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-redux": "^6.0.0",
+    "react-scripts": "^2.1.5"
+  }
+}
